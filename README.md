@@ -5,30 +5,30 @@
 
 # The Other Roles
 
-**The Other Roles**, est un mod pour [Among Us](https://store.steampowered.com/app/945360/Among_Us) qui ajoute des nouveaux rôles, nouveaux [paramètres](#settings), new [Custom Hats](#custom-hats) and support for [10+ Player Lobbies](#Custom-Servers-and-10+-Players) to the game.
+**The Other Roles**, est un mod pour [Among Us](https://store.steampowered.com/app/945360/Among_Us) qui ajoute des nouveaux rôles, nouveaux [paramètres](#settings), nouveaux [chapeaux](#custom-hats) et ajoute [10+ Joueurs](#Custom-Servers-and-10+-Players) au jeu.
 Even more roles are coming soon :)
 
-| Impostors | Crewmates | Neutral |
+| Imposteurs | Crewmates | Neutres |
 |----------|-------------|-----------------|
-| [Bad Child](#child) | [Child](#child) | [Arsonist](#arsonist) |
-| [Camouflager](#camouflager) | [Detective](#detective) | [Jester](#jester) |
-| [Cleaner](#cleaner) | [Engineer](#engineer) | [Jackal](#jackal) |
-| [Eraser](#eraser) | [Hacker](#hacker) | [Sidekick](#sidekick) |
-| [ImpLover](#lovers) | [Lover](#lovers) |  |
-| [Godfather (Mafia)](#mafia) | [Lighter](#lighter) |  |
-| [Mafioso (Mafia)](#mafia) | [Mayor](#mayor) |  |
-| [Janitor (Mafia)](#mafia)  | [Medic](#medic) |  |
-| [Morphling](#morphling) | [Security Guard](#security-guard) |  |
-| [Trickster](#trickster) | [Seer](#seer) |  |
+| [Enfant Malsain](#child) | [Enfant](#child) | [Pyromane](#arsonist) |
+| [Camoufleur](#camouflager) | [Détective](#detective) | [Joker](#jester) |
+| [Nettoyeur](#cleaner) | [Ingénieur](#engineer) | [Chacal](#jackal) |
+| [Éffaceur](#eraser) | [Hacker](#hacker) | [Acolyte](#sidekick) |
+| [ImpAmoureux](#lovers) | [Amoureux](#lovers) |  |
+| [Parrain (Mafia)](#mafia) | [Homme Lumière](#lighter) |  |
+| [Mafieux (Mafia)](#mafia) | [Maire](#mayor) |  |
+| [Concierge (Mafia)](#mafia)  | [Médic](#medic) |  |
+| [Polymorphe](#morphling) | [Agent de Sécurité](#security-guard) |  |
+| [Escroc](#trickster) | [Voyante](#seer) |  |
 | [Vampire](#vampire) | [Sheriff](#sheriff) |  |
-| [Warlock](#warlock) | [Shifter](#shifter) |  |
-|  | [Snitch](#snitch) |  |
-|  | [Spy](#spy) |  |
-|  | [Swapper](#swapper) |  |
-|  | [Time Master](#time-master) |  |
-|  |  [Tracker](#tracker) |  |
+| [Démoniste](#warlock) | [Voleur](#shifter) |  |
+|  | [Mouchard](#snitch) |  |
+|  | [Espion](#spy) |  |
+|  | [Échangeur](#swapper) |  |
+|  | [Maître du Temps](#time-master) |  |
+|  |  [Traqueur](#tracker) |  |
 
-The [Role Assignment](#role-assignment) sections explains how the roles are being distributed among the players.
+La section [attribution des rôles](#role-assignment) explique comment les rôles sont répartis entre le joueurs.
 
 # Releases
 | Among Us - Version| Mod Version | Link |
@@ -255,7 +255,7 @@ The [Role Assignment](#role-assignment) sections explains how the roles are bein
 </details>
 
 # Installation
-## Windows Auto Installation/Updating Using The AmongUsModUpdater
+## Windows  Installation/Utilisation de AmongUsModUpdater
 This tool was made by [Narua](https://github.com/Narua2010) and [Jolle](https://github.com/joelweih). It automatically installs/updates the TheOtherRoles mod to the newest version, runs the game and
 syncs your game options automatically.
 
@@ -410,16 +410,16 @@ Note: Changing the settings to Hacker: 20%, Tracker: 60% would statistically res
 
 ## Mafia
 ### **Team: Impostors**
-The Mafia are a group of three Impostors.\
-The Godfather works like a normal Impostor.\
-The Mafioso is an Impostor who cannot kill nor sabotage until the Godfather is dead.\
-The Janitor is an Impostor who cannot kill nor sabotage, but they can hide dead bodies instead.\
+La Mafia est un groupe de 3 Imposteurs.\
+Le parrain est un Imposteurs classique.\
+Le mafieux est un Imposteur qui ne peut tuer ou saboter avant que le parrain soit mort.\
+Le concierge ne peut pas tuer mais peut enlever les cadavres.\
 \
 **NOTE:**
-- There have to be 3 Impostors activated for the mafia to spawn.
+- Il doit y avoir 3 imposteurs activés pour fonctionner.
 
 ### Game Options
-| Name | Description |
+| Nom | Description |
 |----------|:-------------:|
 | Mafia Spawn Chance | -
 | Janitor Cooldown | -
