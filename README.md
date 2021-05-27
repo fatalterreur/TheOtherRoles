@@ -422,12 +422,12 @@ Le concierge ne peut pas tuer mais peut enlever les cadavres.\
 | Nom | Description |
 |----------|:-------------:|
 | Mafia Spawn Chance | -
-| Janitor Cooldown | -
+| Concierge Cooldown | -
 -----------------------
 
-## Morphling
+## Polymorphe
 ### **Team: Impostors**
-The Morphling is an Impostor which can additionally scan the appearance of a player. After an arbitrary time they can take on that appearance for 10s.
+Le polymorphe est un imposteur qui peut scanner un joueur. Après un certains temps ce dernier peut prendre l'apparence du joueur visé.
 \
 **NOTE:**
 - They shrink to the size of the Child when they copies its look.
@@ -440,12 +440,12 @@ The Morphling is an Impostor which can additionally scan the appearance of a pla
 ### Game Options
 | Name | Description |
 |----------|:-------------:|
-| Morphling Spawn Chance | -
-| Morphling Cooldown | -
-| Morph Duration | Time the Morphling stays morphed
+| Polymorphe Spawn Chance | -
+| Polymorphe Cooldown | -
+| Polymorphe Durée | Temps ou le polylmorphe reste transformé
 -----------------------
 
-## Camouflager
+## Camoufleur
 ### **Team: Impostors**
 The Camouflager is an Impostor which can additionally activate a camouflage mode.
 The camouflage mode lasts for 10s and while it is active, all player names/pets/hats
