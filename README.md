@@ -1,7 +1,6 @@
-![Tor roles FIN](https://user-images.githubusercontent.com/6507474/130652305-2a89bf09-ba0a-464b-a750-def51e0b702f.png)
 ![eisbison banner](./Images/TOR_logo.png)
 [![Discord](./Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
-![eisbison infographic](./Images/TOR_roles.png)
+![Tor roles FIN](https://user-images.githubusercontent.com/6507474/130652305-2a89bf09-ba0a-464b-a750-def51e0b702f.png)
 
 
 # The Other Roles
